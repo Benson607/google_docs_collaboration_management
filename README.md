@@ -1,3 +1,5 @@
 # Language
-[Mandarin version](README_ZH.md)  
-[English version](README_EN.md)  
+[中文](README_ZH.md)  
+[Bahasa Indonesia](README_ID.md)  
+[Deutsch](README_DE.md)  
+[English](README_EN.md)  
